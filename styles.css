@@ -17,3 +17,16 @@ table {
   border: 2px solid darkslateblue;
   margin: 0 auto;
 }
+
+thead {
+  background-color: darkturquoise;
+}
+
+td {
+  border-top: 1px solid darkslateblue;
+}
+
+.code {
+  font-family: monospace;
+  background-color: bisque;
+}
